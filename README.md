@@ -1,5 +1,29 @@
 # End-to-End-Book-Recommender-System
 
+## about project
+
+## A content-based book recommendation system using collaborative filtering
+
+Implemented K-Nearest Neighbors (KNN) for suggesting similar books
+
+Used pandas and scikit-learn for data preprocessing and model building
+
+Dataset includes user ratings, book titles, authors, and metadata
+
+Cleaned and transformed data for optimal model performance
+
+Generated similarity matrix based on user preferences
+
+Built interactive frontend using Streamlit
+
+Displays top recommended books based on user input
+
+Hosted and deployed on AWS EC2
+
+Access the project here: http://13.233.31.189:8501
+
+
+
 ## Workflow
 
 - config.yaml
